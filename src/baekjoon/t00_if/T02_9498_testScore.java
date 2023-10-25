@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 9498번 시험성적
 // 90 ~ 100점은 A, 80 ~ 89점은 B, 70 ~ 79점은 C, 60 ~ 69점은 D, 나머지 점수는 F를 출력
 // 100      A
-public class A02_9498_testScore {
+public class T02_9498_testScore {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

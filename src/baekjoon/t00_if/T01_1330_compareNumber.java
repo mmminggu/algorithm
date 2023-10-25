@@ -10,7 +10,7 @@ import java.util.Scanner;
 // 1    2    <
 // 10   2    >
 // 5    5    ==
-public class A01_1330_compareNumber {
+public class T01_1330_compareNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -10,7 +10,7 @@ import java.util.Scanner;
 // 4사분면 : + -
 // 12   5        1
 // 9    -13     4
-public class A03_14681_pickQuadrant {
+public class T03_14681_pickQuadrant {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
